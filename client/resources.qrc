@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/cascades">
+        <file>cascades/beyazkugu.xml</file>
+        <file>cascades/siyahkugu.xml</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>Icons/cancel.png</file>
+        <file>Icons/reset.png</file>
+        <file>Icons/right-arrow-black-double-triangle.png</file>
+        <file>Icons/leftarrow-black-double-triangle.png</file>
+        <file>Icons/right-arrow-black-triangle - right.png</file>
+        <file>Icons/right-arrow-black-triangle - up.png</file>
+        <file>Icons/right-arrow-black-triangle - left.png</file>
+        <file>Icons/right-arrow-black-triangle - down.png</file>
+    </qresource>
+</RCC>
